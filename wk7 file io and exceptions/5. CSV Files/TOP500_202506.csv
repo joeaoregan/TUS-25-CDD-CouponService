@@ -1,0 +1,501 @@
+System ID,Name,Manufacturer,Country,Year,Segment,Total Cores,Rmax
+177259,Pleiades,HPE,United States,2016,Research,241108,5951.55
+177824,Piz Daint,HPE,Switzerland,2017,Research,387872,21230
+177999,Tianhe-2A,NUDT,China,2018,Research,4981760,61444.5
+178071,Pangea,HPE,France,2013,Industry,220800,5283.11
+178083,Palmetto2,DELL,United States,2022,Academic,52080,3011
+178250,cascade,Atipa,United States,2013,Research,194616,2539.13
+178425,HPC2,IBM,Italy,2014,Industry,72000,3188
+178431,,HPE,United Kingdom,2016,Research,126468,3944.68
+178432,,HPE,United States,2014,Government,225984,3143.52
+178444,Lomonosov 2,T-Platforms,Russia,2014,Academic,64384,2478
+178445,,HPE,United States,2014,Government,72800,3577
+178447,Excalibur,HPE,United States,2014,Government,100064,2485
+178519,,HPE,United States,2015,Government,72800,3577
+178523,Topaz,HPE,United States,2015,Research,124200,3318.95
+178524,Thunder,HPE,United States,2015,Government,152692,3126.24
+178544,SuperMUC Phase 2,Lenovo/IBM,Germany,2015,Academic,86016,2813.62
+178556,Abel,HPE,United States,2015,Industry,145920,4042.46
+178567,Mistral,EVIDEN,Germany,2015,Research,99072,3010.68
+178749,,HPE,United Kingdom,2016,Research,126468,3944.68
+178751,,HPE,United Kingdom,2016,Research,89856,2801.78
+178752,,HPE,United Kingdom,2016,Research,89856,2801.78
+178764,Sunway TaihuLight,NRCPC,China,2016,Research,10649600,93014.59
+178925,,HPE,United Kingdom,2016,Research,241920,7038.93
+178926,Theta,HPE,United States,2017,Research,280320,6920.9
+178927,Camphor 2,HPE,Japan,2016,Academic,122400,3057.35
+178928,DGX Saturn V,Nvidia,United States,2018,Vendor,87040,3998
+178965,Cheyenne,HPE,United States,2016,Research,144900,4788.19
+178969,LLNL/NNSA CTS-1 Jade,Penguin Computing,United States,2016,Research,95472,2632.51
+178971,LLNL CTS-1 Quartz,Penguin Computing,United States,2016,Research,95472,2632.51
+179045,Stampede2,DELL,United States,2017,Academic,367024,10680.7
+179067,MareNostrum,Lenovo,Spain,2017,Academic,153216,6470.8
+179068,,Self-made,United States,2017,Industry,60512,3307
+179071,HPC3,Lenovo,Italy,2017,Industry,66000,2592
+179092,occigen2,EVIDEN,France,2016,Academic,85824,2494.65
+179100,ONYX,HPE,United States,2017,Research,211816,6316.03
+179105,Centennial,HPE,United States,2017,Research,73920,2443.7
+179398,Sierra,IBM / NVIDIA / Mellanox,United States,2018,Research,1572480,94640
+179408,Niagara,Lenovo,Canada,2017,Research,80640,3599.66
+179409,Damson,EVIDEN,United Kingdom,2017,Research,113832,3243.41
+179411,JOLIOT-CURIE SKL,EVIDEN,France,2017,Research,79488,4065.55
+179412,Tera-1000-2,EVIDEN,France,2017,Research,561408,11965.5
+179416,Pratyush,HPE,India,2018,Research,119232,3763.94
+179417,JFRS-1,HPE,Japan,2018,Research,54560,2787.14
+179418,Mihir,HPE,India,2018,Research,83592,2570.4
+179421,Nurion,HPE,South Korea,2018,Research,570020,13929.3
+179424,JUWELS Module 1,EVIDEN,Germany,2018,Research,114480,6177.73
+179425,PAI-ASystem,Sugon,China,2017,Research,48128,2435
+179426,Mustang,HPE,United States,2018,Government,55296,3221.4
+179440,PAI-BSystem,Sugon,China,2018,Research,50816,2547
+179444,HPC4,HPE,Italy,2018,Industry,253600,12210
+179566,SuperMUC-NG,Lenovo,Germany,2018,Academic,305856,19476.6
+179567,Lassen,IBM / NVIDIA / Mellanox,United States,2018,Research,288288,18200
+179576,Tetralith,ClusterVision / Hammer,Sweden,2018,Academic,64512,2969.19
+179589,Electra,HPE,United States,2018,Research,124416,5444.64
+179590,Taiwania 2,Quanta Computer / Taiwan Fixed Network / ASUS Cloud,Taiwan,2018,Research,170352,9000
+179593,Advanced Computing System(PreE),Sugon,China,2018,Vendor,163840,4325
+179598,Eagle,HPE,United States,2018,Research,75600,4850.66
+179599,Joule 2.0,HPE,United States,2018,Research,86400,3608.62
+179603,TX-GAIA (Green AI Accelerator),HPE,United States,2019,Academic,88400,5161
+179604,PupMaya,HPE,United States,2019,Government,169920,7483.73
+179607,Frontera,DELL,United States,2019,Academic,448448,23516.4
+179658,B1,Lenovo,China,2019,Industry,60000,2462.4
+179681,Fênix,EVIDEN,Brazil,2019,Industry,60480,3161
+179682,CLAIX (2018),NEC,Germany,2018,Academic,61200,2483.58
+179689,PANGEA III,IBM,France,2019,Industry,291024,17860
+179690,Orion,DELL,United States,2019,Academic,70560,3665.72
+179691,DGX SuperPOD,Nvidia,United States,2020,Vendor,127488,9444
+179692,Jean Zay,HPE,France,2019,Academic,93960,4478
+179696,,HPE,Japan,2019,Industry,65208,3712
+179697,VSC-4,Lenovo,Austria,2019,Academic,37920,2726.08
+179698,,HPE,Japan,2019,Research,70416,4128
+179699,Jean Zay,HPE,France,2019,Academic,61120,3054.35
+179700,JOLIOT-CURIE ROME,EVIDEN,France,2019,Research,197120,6988.04
+179702,Lise,EVIDEN,Germany,2019,Academic,121920,6048.26
+179708,Sawtooth,HPE,United States,2019,Research,99792,5780.62
+179742,,Lenovo,China,2019,Government,59976,2744.84
+179746,,Lenovo,China,2019,Industry,73600,2994.04
+179747,,Lenovo,China,2019,Industry,64000,2621.44
+179748,,Lenovo,China,2019,Industry,68000,2779.84
+179749,,Lenovo,China,2019,Industry,72000,2931.84
+179750,,Lenovo,China,2019,Industry,76000,3088.64
+179774,LLNL/NNSA CTS-1 MAGMA,Penguin Computing,United States,2019,Research,62400,3241.24
+179775,Hypercluster,Nvidia,United States,2019,Research,47808,2666
+179777,SNL/NNSA CTS-1 Attaway,Penguin Computing,United States,2019,Research,52920,2724.52
+179778,Christofari,Nvidia,Russia,2019,Industry,99600,6669
+179781,AiMOS,IBM,United States,2019,Academic,130000,8339
+179803,Artemis,Nvidia,United Arab Emirates,2019,Industry,107568,7257
+179807,Supercomputer Fugaku,Fujitsu,Japan,2020,Research,7630848,442010
+179808,Flow,Fujitsu,Japan,2020,Academic,110592,6617.8
+179810,,Lenovo,China,2019,Industry,66400,2746.3
+179811,,Lenovo,China,2020,Industry,64320,2583.09
+179812,,Lenovo,China,2020,Industry,62400,2590.84
+179813,,Lenovo,China,2020,Industry,61440,2487.09
+179827,,Inspur,China,2020,Academic,50400,2610
+179829,,Inspur,China,2020,Industry,50400,2480
+179830,,Inspur,China,2020,Industry,50400,2480
+179842,Selene,Nvidia,United States,2020,Vendor,555520,63460
+179843,Freeman,HPE,United States,2020,Research,79104,2829
+179847,Numerical Materials Simulator,HPE,Japan,2020,Research,53568,3082.12
+179849,Roxy,HPE,United States,2020,Government,174720,8124.48
+179850,,Lenovo,China,2020,Industry,128000,2651.95
+179853,Belenos,EVIDEN,France,2020,Research,294912,7683.36
+179854,Atlas,EVIDEN,Brazil,2020,Industry,91936,4376
+179855,MAHTI,EVIDEN,Finland,2020,Academic,169728,5388.52
+179856,HPC5,DELL,Italy,2020,Industry,669760,35450
+179857,Lichtenberg II (Phase 1),MEGWARE,Germany,2020,Academic,59136,3148.38
+179858,Cedar (CPU),ACTION,Canada,2020,Academic,67584,2607.98
+179859,Cedar (GPU),ACTION,Canada,2020,Academic,67584,3371
+179861,Betzy,EVIDEN,Norway,2020,Academic,172032,4724.79
+179862,Banting,HPE,Canada,2019,Government,53200,2676.74
+179863,Daley,HPE,Canada,2019,Government,53200,2598.28
+179864,Hera,HPE,United States,2019,Research,63840,3080.85
+179865,Gadi,Fujitsu / Lenovo,Australia,2020,Academic,204032,9264.31
+179866,LLNL Ruby,Supermicro,United States,2020,Research,85568,3700.15
+179871,Plasma Simulator,NEC,Japan,2020,Research,34560,7892.7
+179873,,Inspur,China,2020,Academic,49056,2889.41
+179877,davinci-1,EVIDEN,Italy,2020,Others,38400,3449
+179882,Ohtaka,DELL,Japan,2020,Research,215040,3486.1
+179883,Emmy+,EVIDEN,Germany,2020,Academic,120296,5948.8
+179884,Unizah-II,HPE,Saudi Arabia,2020,Industry,85560,3487.91
+179885,Dammam-7,HPE,Saudi Arabia,2020,Industry,672520,22400
+179887,,Lenovo,China,2020,Industry,94160,2867.64
+179888,ZZ3,Lenovo,China,2020,Industry,66400,2721.33
+179889,ZZ4,Lenovo,China,2020,Industry,65600,2691.69
+179890,ZZ5,Lenovo,China,2020,Industry,64800,2661.46
+179891,ZZ6,Lenovo,China,2020,Industry,69120,2654.04
+179892,Taranis,EVIDEN,France,2020,Research,294912,8191.03
+179893,Spartan2,EVIDEN,France,2020,Vendor,23040,2566
+179894,JUWELS Booster Module,EVIDEN,Germany,2020,Research,449280,44120
+179895,TOKI-SORA,Fujitsu,Japan,2020,Research,276480,16592
+179896,,HPE,Japan,2020,Research,100096,6162
+179897,Flow Type II subsystem,Fujitsu,Japan,2020,Academic,79560,4880.46
+179898,ZZ2,Lenovo,China,2020,Industry,67200,2749.28
+179899,CRONOS,EVIDEN,France,2020,Industry,81600,4299.33
+179900,Alps,HPE,Switzerland,2020,Research,128000,3088.6
+179903,Altair,Huawei,Poland,2020,Academic,63360,3533.61
+179904,Expanse,DELL,United States,2020,Academic,91648,2480.6
+179905,Grace,DELL,United States,2020,Academic,43200,2638.53
+179907,SNL/NNSA CTS-1 Manzano,Penguin Computing,United States,2020,Research,71424,4281
+179908,Toubkal,DELL,Morocco,2020,Academic,71232,3158.11
+179912,Guru,Lenovo,South Korea,2021,Government,306432,18002.8
+179913,Raven,Lenovo,Germany,2021,Research,114624,5415.98
+179915,,Lenovo,China,2021,Industry,83200,2581.02
+179916,,Lenovo,China,2021,Industry,93600,2873.41
+179918,,Lenovo,China,2021,Industry,67200,2574.02
+179919,,Lenovo,China,2021,Industry,68160,2609.16
+179920,,Lenovo,China,2021,Industry,70080,2677.05
+179921,,Lenovo,China,2021,Industry,71040,2710.88
+179922,,Lenovo,China,2021,Industry,72000,2742.91
+179923,,Lenovo,China,2021,Industry,72960,2774.23
+179925,Narwhal,HPE,United States,2020,Government,276480,8023.6
+179926,Karolina  CPU partition,HPE,Czechia,2021,Academic,92160,2837.4
+179927,Earth Simulator -SX-Aurora TSUBASA,NEC,Japan,2021,Research,43776,9990.7
+179929,Ghawar-1,HPE,Saudi Arabia,2021,Industry,714240,19256
+179931,IARA,Nvidia,Brazil,2021,Research,24800,3657
+179932,MeluXina - Accelerator Module,EVIDEN,Luxembourg,2021,Research,99200,10520
+179933,Raven-GPU,Lenovo,Germany,2021,Research,96768,8620
+179934,SQUID - CPU Nodes,NEC,Japan,2021,Academic,115520,6105.1
+179935,Spartan3,EVIDEN,France,2021,Vendor,92160,2751
+179936,VEGA HPC CPU,EVIDEN,Slovenia,2021,Research,122880,3822
+179937,VEGA HPC GPU,EVIDEN,Slovenia,2021,Research,33600,3096
+179939,BioHive-1,Nvidia,United States,2021,Industry,39680,4902
+179940,HiPerGator AI,Nvidia,United States,2021,Academic,138880,17200
+179941,Dragão,EVIDEN,Brazil,2021,Industry,188224,8983
+179942,AlphaCentauri,NEC,Germany,2021,Academic,31008,2592
+179944,Cactus,HPE,United States,2021,Government,327680,10013
+179945,Dogwood,HPE,United States,2020,Government,327680,10013
+179947,JURECA Data Centric Module,EVIDEN,Germany,2021,Research,105840,9330
+179948,Discoverer,EVIDEN,Bulgaria,2021,Academic,144384,4518.87
+179951,Jean,Liqid,United States,2020,Government,55296,2917.56
+179952,Kay,Liqid,United States,2020,Government,46848,2475.67
+179953,Berzelius,EVIDEN,Sweden,2021,Academic,59520,5253
+179959,Aitken,HPE,United States,2022,Research,293936,9070
+179960,NVIDIA Cambridge-1 DGX SuperPOD,Nvidia,United States,2021,Vendor,79360,9682
+179962,Wisteria/BDEC-01 (Odyssey),Fujitsu,Japan,2021,Academic,368640,22121
+179963,Wisteria/BDEC-01 (Aquarius),Fujitsu,Japan,2021,Academic,42120,4425
+179965,HoreKa-Green,Lenovo,Germany,2021,Academic,90932,8025.6
+179967,Pioneer-WUS2,Microsoft Azure,United States,2021,Others,157440,16590
+179968,Pioneer-WEU,Microsoft Azure,Netherlands,2021,Vendor,157440,16590
+179969,Pioneer-EUS,Microsoft Azure,United States,2020,Vendor,157440,16590
+179970,Pioneer-SCUS,Microsoft Azure,United States,2021,Vendor,157440,16590
+179972,Perlmutter,HPE,United States,2021,Research,888832,79230
+179974,Amazon EC2 Instance Cluster us-east-1a,Amazon Web Services,United States,2019,Industry,172692,9950.26
+179978,,Lenovo,United States,2021,Industry,71680,3151.69
+179979,B5A,Lenovo,United States,2021,Industry,71680,3151.69
+179989,B1A,Lenovo,United States,2021,Industry,80640,3545.65
+179991,A9A,Lenovo,United States,2021,Industry,86016,2922.5
+179992,A8A,Lenovo,United States,2021,Industry,84480,2870.31
+179993,A7A,Lenovo,United States,2021,Industry,76800,2609.38
+179994,A8A,Lenovo,United States,2021,Industry,84480,2870.31
+179995,A7A,Lenovo,United States,2021,Industry,76800,2609.38
+179996,A6A,Lenovo,United States,2021,Industry,86016,2922.5
+179997,A5A,Lenovo,United States,2021,Industry,92160,3131.25
+179999,A3A,Lenovo,United States,2021,Industry,84480,2870.31
+180001,A1A,Lenovo,United States,2021,Industry,92160,3131.25
+180002,A1A,Lenovo,United States,2021,Industry,92160,3131.25
+180003,A1B,Lenovo,United States,2021,Industry,76800,2609.38
+180004,III1,Lenovo,China,2021,Industry,79680,2975.08
+180005,JJJ1,Lenovo,China,2021,Industry,78720,2933.42
+180006,KKK1,Lenovo,China,2021,Industry,77760,2910.09
+180007,LLL1,Lenovo,China,2021,Industry,76800,2882.76
+180008,MMM1,Lenovo,China,2021,Industry,75840,2857.04
+180009,NNN1,Lenovo,China,2021,Industry,74880,2834.05
+180010,OOO1,Lenovo,China,2021,Industry,73920,2804.41
+180011,HHH1,Lenovo,China,2021,Industry,80640,2975.29
+180012,Warhawk,HPE,United States,2021,Government,129920,4033.5
+180013,Dardel CPU,HPE,Sweden,2021,Academic,156672,5055.33
+180014,Topaze-cpu,EVIDEN,France,2021,Research,110592,3261.02
+180015,Topaze-gpu,EVIDEN,France,2021,Research,42000,5065
+180016,Polaris,HPE,United States,2021,Research,256592,25810
+180018,DiRAC  Tursa,EVIDEN,United Kingdom,2021,Academic,55552,5228
+180020,Big Red 200  GPU Partition,HPE,United States,2021,Academic,31744,3194
+180021,,Lenovo,China,2021,Academic,59392,3656.78
+180022,A1C,Lenovo,Singapore,2021,Industry,92160,3131.25
+180023,Maru,Lenovo,South Korea,2021,Government,306432,18002.8
+180024,Voyager-EUS2,Microsoft Azure,United States,2021,Vendor,253440,30050
+180026,Karolina  GPU partition,HPE,Czechia,2021,Academic,71424,6752
+180028,Christofari Neo,Nvidia,Russia,2021,Industry,98208,11950
+180029,Chervonenkis,YANDEX  NVIDIA,Russia,2021,Industry,193440,21530
+180030,Lyapunov,NVIDIA  Inspur,Russia,2020,Industry,130944,12810
+180031,CEA-HF,EVIDEN,France,2021,Research,810240,23237.6
+180032,Narval (GPU),DELL,Canada,2021,Academic,76320,5886
+180033,Snellius Phase 1 GPU,Lenovo,Netherlands,2022,Research,12960,3603
+180036,ARCHER2,HPE,United Kingdom,2021,Research,716800,19539
+180037,Galushkin,YANDEX  NVIDIA,Russia,2021,Industry,134912,16020
+180038,CARO,NEC,Germany,2021,Research,174592,3458.3
+180039,Levante,EVIDEN,Germany,2022,Research,352000,10111
+180040,Rattler,DELL,United States,2021,Vendor,26880,2531
+180041,SSC-21,HPE,South Korea,2021,Industry,204160,25177
+180045,LUMI-C,HPE,Finland,2021,Research,194560,6299.79
+180047,Frontier,HPE,United States,2021,Research,9066176,1353000
+180048,LUMI,HPE,Finland,2023,Research,2752704,379700
+180050,rzVernal,HPE,United States,2022,Research,35872,5401
+180051,Adastra,HPE,France,2022,Academic,319072,46100
+180052,Tioga,HPE,United States,2022,Research,30208,4548.21
+180053,Frontier TDS,HPE,United States,2021,Research,120832,19200
+180055,Athena,Format,Poland,2021,Academic,47616,5051
+180057,Tenaya,HPE,United States,2022,Research,22656,3411.16
+180063,A14A,Lenovo,Canada,2022,Industry,78336,2661.56
+180064,A14A,Lenovo,United States,2022,Industry,84480,2870.31
+180070,ATOS THX.A.B,EVIDEN,France,2022,Vendor,25056,3505
+180071,Noctua 2,EVIDEN,Germany,2022,Academic,135168,4190.9
+180073,Champollion,HPE,France,2022,Vendor,19840,2537
+180074,Fritz,MEGWARE,Germany,2021,Academic,71424,3578.03
+180075,Alex,MEGWARE,Germany,2021,Academic,37696,4030
+180077,ASPIRE 2A (GPU Partition),HPE,Singapore,2022,Research,43648,3328
+180078,ASPIRE 2A (CPU Partition),HPE,Singapore,2022,Research,98304,2578.58
+180079,Komondor,HPE,Hungary,2022,Academic,27776,3105
+180080,alpha ONE,HPE,Germany,2022,Others,57344,7625
+180081,Underhill,Lenovo,Canada,2022,Government,148320,7764.57
+180082,Robert,Lenovo,Canada,2022,Government,148320,7764.57
+180083,,HPE,Japan,2022,Research,72384,9459
+180084,Titan,HPE,South Korea,2024,Industry,153760,19530
+180085,Anvil,DELL,United States,2022,Academic,127488,3563.1
+180087,Henri,Lenovo,United States,2022,Research,8288,2882
+180092,Grete,MEGWARE,Germany,2022,Academic,49600,5458
+180094,hotlum,HPE,France,2022,Vendor,116736,3807.96
+180097,NOJP1,Lenovo,Japan,2022,Industry,71680,3151.68
+180098,NOBZ1,Lenovo,Brazil,2022,Industry,80640,3545.65
+180099,NONY1,Lenovo,Norway,2022,Industry,71680,3151.68
+180100,AID1,Lenovo,Ireland,2022,Industry,71680,3151.68
+180101,NO6,Lenovo,United States,2022,Industry,71680,3151.68
+180104,AIC1,Lenovo,Ireland,2022,Industry,80640,3545.65
+180108,NO4,Lenovo,United States,2022,Industry,92160,3131.25
+180109,NO3,Lenovo,United States,2022,Industry,88320,3000.78
+180110,NO2,Lenovo,United States,2022,Industry,78336,2661.56
+180111,NO1,Lenovo,United States,2022,Industry,76800,2609.37
+180112,NEA1,Lenovo,China,2022,Industry,144000,2632.45
+180113,BA1A,Lenovo,China,2022,Industry,81920,3476.28
+180116,A14A,Lenovo,United States,2022,Industry,84480,2870.31
+180117,B2G,Lenovo,Netherlands,2022,Industry,92160,3131.25
+180120,Dream-AI,Inspur,South Korea,2022,Academic,36960,3179
+180121,Delta,HPE,United States,2022,Academic,49600,3812
+180122,Lucia,HPE,Belgium,2022,Industry,23200,2776
+180123,Setonix – GPU,HPE,Australia,2022,Research,181248,27160
+180125,LANTA,HPE,Thailand,2022,Research,87296,8146
+180126,Dardel GPU,HPE,Sweden,2022,Academic,56640,9895
+180127,Pégaso,EVIDEN,Brazil,2022,Industry,233856,19070
+180128,Leonardo,EVIDEN,Italy,2023,Academic,1824768,241200
+180131,Discovery 5,HPE,United States,2022,Industry,232000,26130
+180132,Berzelius2,EVIDEN,Sweden,2023,Academic,33728,4214
+180134,AIRAWAT - PSAI,Netweb Technologies,India,2023,Research,81344,8500
+180136,Lichtenberg II (Phase 2),Lenovo,Germany,2023,Academic,59904,3098.52
+180137,Barnard,EVIDEN,Germany,2023,Academic,65520,3047.36
+180140,NA8B,Lenovo,United States,2023,Industry,84096,3127.57
+180141,NA8A,Lenovo,United States,2023,Industry,84096,3127.57
+180142,NA9B,Lenovo,United States,2023,Industry,200448,3960.21
+180143,NA9A,Lenovo,United States,2023,Industry,200448,3960.21
+180144,NA9,Lenovo,United States,2023,Industry,200448,3960.21
+180145,NA8,Lenovo,United States,2023,Industry,84096,3127.57
+180146,NA8,Lenovo,United States,2023,Industry,84096,3127.57
+180147,NA7A,Lenovo,United States,2023,Industry,207872,4229.11
+180148,NA6B,Lenovo,United States,2023,Industry,111744,4155.8
+180149,NA6A,Lenovo,United States,2023,Industry,111744,4155.8
+180150,NA7,Lenovo,United States,2023,Industry,207872,4229.11
+180151,NA6,Lenovo,United States,2023,Industry,111744,4155.8
+180152,NA5,Lenovo,United States,2023,Industry,268928,5313.16
+180153,NA4,Lenovo,United States,2023,Industry,85248,3320.05
+180154,NA2C,Lenovo,United States,2022,Industry,111936,4228.14
+180156,NA2B,Lenovo,United States,2022,Industry,111936,4228.14
+180157,NA2,Lenovo,United States,2023,Industry,111936,4228.14
+180158,NA1,Lenovo,United States,2023,Industry,191232,3920.56
+180160,Geely Wise Star-Dubhe,Lenovo,China,2023,Industry,40960,3536.02
+180163,KT DGX SuperPOD,Nvidia,South Korea,2022,Industry,98208,10380
+180165,Derecho GPU partition,HPE,United States,2023,Research,39680,4582
+180166,Derecho CPU partition,HPE,United States,2023,Research,316416,10324
+180168,,Fujitsu,Japan,2022,Research,221184,13367
+180169,,Fujitsu,Japan,2022,Research,221184,13367
+180170,Pegasus,NEC,Japan,2023,Academic,27000,4342
+180171,Explorer-WUS3,Microsoft Azure,United States,2023,Vendor,445440,53960
+180172,,NEC,Norway,2022,Industry,53568,2955
+180173,Gaia,DELL,Brazil,2023,Industry,84480,6968
+180174,Gemini,DELL,Brazil,2023,Industry,42240,3861
+180175,Goethe-NHR,MEGWARE / Supermicro,Germany,2023,Academic,96768,9087
+180176,Conesus,DELL,United States,2023,Research,43008,2589.48
+180177,Molecular Simulator,HPE,Japan,2023,Research,106496,3340.29
+180178,Crossroads,HPE,United States,2023,Research,660800,30034.7
+180179,Shaheen III - CPU,HPE,Saudi Arabia,2023,Academic,877824,35658.3
+180182,SuperMUC-NG Phase 2,Lenovo,Germany,2023,Academic,149760,17190.5
+180183,Aurora,Intel,United States,2023,Research,9264128,1012000
+180186,NA5A,Lenovo,United States,2023,Industry,268928,5313.16
+180189,NA4A,Lenovo,United States,2023,Industry,85248,3320.05
+180197,NA10B,Lenovo,United States,2023,Industry,184320,3641.57
+180198,NA10A,Lenovo,United States,2023,Industry,184320,3641.57
+180199,NA10,Lenovo,United States,2023,Industry,184320,3641.57
+180201,SPR-HBM,Lenovo,United States,2023,Industry,119952,6463.85
+180202,Dawn,DELL,United Kingdom,2023,Academic,156864,19458.3
+180203,Clementina XXI,Lenovo,Argentina,2023,Research,43008,5390.15
+180204,Leonardo-CPU,EVIDEN,Italy,2023,Academic,172032,7841.57
+180205,Helios CPU,HPE,Poland,2023,Academic,75264,3086.4
+180206,42,HPE,Germany,2023,Research,64512,7938
+180208,HEMUS,HPE,Bulgaria,2023,Research,19840,2526
+180211,HPCF-AD,EVIDEN,Italy,2022,Research,245760,6671.94
+180212,HPCF-AC,EVIDEN,Italy,2022,Research,245760,6671.94
+180213,HPCF-AB,EVIDEN,Italy,2022,Research,245760,6671.94
+180214,HPCF-AA,EVIDEN,Italy,2022,Research,245760,6671.94
+180215,,Fujitsu,Taiwan,2023,Government,92160,5600.6
+180216,,Fujitsu,Taiwan,2023,Government,184320,11164
+180217,AOBA-S,NEC,Japan,2023,Academic,64512,17221
+180218,,HPE,South Korea,2023,Research,17520,4957
+180219,Kestrel CPU,HPE,United States,2023,Research,212992,11372.2
+180220,DAIDC,HPE,South Korea,2023,Government,54720,6183
+180221,,NEC,Norway,2023,Industry,59520,2775.4
+180222,Sejong,Nvidia,South Korea,2023,Industry,277760,32970
+180223,Nautilus,Penguin Computing,United States,2022,Government,191680,3897.5
+180224,DeepL Mercury,Nvidia,Sweden,2023,Industry,40960,21850
+180225,Improv,DELL,United States,2023,Research,105600,2509.7
+180226,Camphor 3,NEC / DELL,Japan,2023,Academic,125440,6708.13
+180227,Sol,DELL,United States,2023,Academic,41856,2546
+180228,LLNL CTS-2 Dane,DELL,United States,2023,Research,123648,7041
+180229,UltraViolet,DELL,United States,2024,Academic,18688,5558
+180230,Snellius Phase 2 CPU,Lenovo,Netherlands,2023,Research,150912,5404.2
+180231,LLNL/NNSA CTS-2 Bengal,DELL,United States,2023,Research,107520,7196.63
+180232,Spartan GPU Partitions,DELL,Australia,2022,Academic,50752,3863
+180233,SNL CTS-2 Stout,DELL,United States,2023,Research,170128,9533.44
+180234,ISEG,Nebius AI,Netherlands,2023,Others,218880,46540
+180235,Forerunner 1,ASUSTeK / ASUS Cloud / Taiwan Web Service Corporation,Taiwan,2023,Research,62496,3532.92
+180236,Eagle,Microsoft Azure,United States,2023,Industry,2073600,561200
+180237,MareNostrum 5 GPP,Lenovo,Spain,2023,Research,725760,40101.8
+180238,MareNostrum 5 ACC,EVIDEN,Spain,2023,Research,663040,175300
+180239,Eos NVIDIA DGX SuperPOD,Nvidia,United States,2023,Vendor,485888,121400
+180241,Joule 3.0,Koi Computers,United States,2024,Research,107648,4855.9
+180242,Crash1,Lenovo,Sweden,2022,Industry,40448,2490.39
+180244,Helios GPU,HPE,Poland,2023,Academic,89760,19140
+180246,Venado,HPE,United States,2024,Research,481440,98510
+180247,NA8Z,Lenovo,United States,2024,Industry,84096,3127.57
+180248,NA9Z,Lenovo,United States,2023,Industry,200448,3960.21
+180249,NA13A,Lenovo,United States,2023,Industry,156160,3201.53
+180250,NA13,Lenovo,United States,2023,Industry,156160,3201.53
+180251,NA12A,Lenovo,United States,2023,Industry,187648,4052.16
+180252,NA12,Lenovo,United States,2023,Industry,187648,4052.16
+180254,Greene-H100,Lenovo,United States,2024,Academic,9360,2436
+180257,Isambard-AI phase 1,HPE,United Kingdom,2024,Academic,34272,7417
+180259,Alps,HPE,Switzerland,2024,Research,2121600,434900
+180260,Tuwaiq-1,DELL,Saudi Arabia,2024,Industry,61568,8487
+180261,ARF,Lenovo,Turkey,2023,Government,55552,3003.29
+180262,SNL/NNSA CTS-2 Amber,DELL,United States,2022,Research,169344,9508.36
+180263,BioHive-2,Nvidia,United States,2024,Industry,40320,23320
+180264,TAIPEI-1,Nvidia,Taiwan,2024,Industry,40960,22300
+180265,Yep1,Nvidia,United States,2023,Others,73584,23320
+180266,Opera Iceland KEF-1 SuperPOD,Nvidia,Iceland,2024,Industry,36208,10530
+180267,Kraken-Fregata,HPE  GALAXY,Poland,2024,Academic,21904,5985
+180268,TSUBAME4.0,HPE,Japan,2024,Academic,172800,39620
+180269,JEDI,ParTec/EVIDEN,Germany,2024,Research,19584,4504
+180270,HoreKa-Teal,Lenovo,Germany,2023,Academic,13616,3123
+180271,CEA-HE,EVIDEN,France,2024,Research,548352,90790
+180272,Lem,DELL,Poland,2023,Academic,44992,12800
+180275,Deucalion,Fujitsu,Portugal,2023,Research,78336,3955.5
+180277,C24,HPE,Czechia,2023,Industry,196608,8401.78
+180278,,Fujitsu,Japan,2023,Research,55552,2547.81
+180279,,Fujitsu,Japan,2023,Research,55552,2547.81
+180280,Carpenter,HPE,United States,2023,Research,276480,11616.8
+180284,rzAdams,HPE,United States,2024,Research,129024,24380
+180286,CLAIX-2023 (CPU segment),NEC,Germany,2024,Academic,57408,3133.42
+180289,Raider,Penguin Computing,United States,2022,Government,206304,4015.56
+180290,Proxima,HPE  GALAXY,Poland,2024,Academic,58224,13816.66
+180291,kakaocloud,Supermicro,South Korea,2024,Industry,253952,32000
+180292,kakaocloud,eSlim Korea,South Korea,2024,Industry,115072,15940
+180293,Dhabi Supercomputer,HPE,United Arab Emirates,2023,Research,39680,5094
+180294,Virga,DELL,Australia,2024,Government,60000,14940
+180295,CLAIX-2023 (GPU segment),NEC,Germany,2024,Academic,28704,5238
+180297,Miyabi-G,Fujitsu,Japan,2024,Academic,221952,46800
+180298,Capella,MEGWARE,Germany,2024,Academic,85248,24060
+180299,Gefion,Nvidia,Denmark,2024,Research,223088,66590
+180300,Raphael,Lenovo,United States,2024,Academic,14976,4090
+180301,SEAS H100,Lenovo,United States,2024,Academic,13104,3375
+180302,Grete Phase 3,MEGWARE,Germany,2024,Academic,15600,3647
+180303,Helma,MEGWARE,Germany,2024,Academic,125952,32220
+180304,Jean Zay H100,EVIDEN,France,2024,Academic,227136,52180
+180305,Santos Dumont,EVIDEN,Brazil,2024,Academic,68064,14290
+180306,Arka AI/ML,EVIDEN,India,2024,Research,8176,2703
+180307,El Capitan,HPE,United States,2024,Research,11039616,1742000
+180308,Tuolumne,HPE,United States,2024,Research,1161216,208100
+180309,El Dorado,HPE,United States,2024,Research,383040,68020
+180310,MUSICA Phase 1,Lenovo,Austria,2024,Academic,161280,31840
+180311,ROMEO-2025,EVIDEN,France,2024,Academic,47328,9863
+180314,SuperPOD,Nvidia,United Arab Emirates,2024,Industry,185712,55810
+180315,HPC6,HPE,Italy,2024,Industry,3143520,477900
+180316,Snellius Phase 3 GPU,Lenovo,Netherlands,2024,Research,52096,13640
+180317,Minerva,Lenovo,United States,2024,Academic,28080,7909
+180319,Adastra 2,HPE,France,2024,Academic,16128,2529
+180320,Honhai Super AI Computing Center 1,ASUSTeK / ASUS Cloud / Taiwan Web Service Corporation,Taiwan,2024,Industry,18688,6123
+180321,THE CRUST 2.5,HPE,Thailand,2024,Industry,47360,13850
+180323,,HPE,Japan,2024,Academic,49728,2817.75
+180324,CATT,HPE,United States,2024,Research,196608,8269.43
+180325,ASPIRE 2A+,Nvidia,Singapore,2024,Research,46720,14200
+180326,Gautschi AI,DELL,United States,2024,Academic,23360,7261
+180327,Arunika,EVIDEN,India,2024,Research,203040,5937.17
+180328,Arka,EVIDEN,India,2024,Research,290016,5937.18
+180329,CHIE-2,Nvidia,Japan,2024,Industry,297840,89780
+180330,CHIE-3,Nvidia,Japan,2024,Industry,297840,91940
+180331,Ubilink,ASUSTeK,Taiwan,2024,Vendor,143360,45820
+180332,Genkai Node Group A,Fujitsu,Japan,2024,Academic,122880,6219.9
+180333,Unaizah-4,DELL,Saudi Arabia,2024,Industry,23680,4424
+180334,IronMan,DELL,United States,2024,Vendor,20096,3109
+180335,Medusa,DELL,United States,2024,Vendor,9216,3083
+180336,Cardinal GPU Partition,DELL,United States,2024,Academic,18960,5038
+180337,Israel-1,DELL,Israel,2023,Industry,74880,41500
+180338,SNL CTS-2 Hops,DELL,United States,2024,Research,40960,10030
+180339,GMO GPU Cloud,DELL,Japan,2024,Industry,112128,10050
+180340,43,HPE,Germany,2024,Research,39712,11270
+180341,NHN CLOUD GWANGJU AI,DELL,South Korea,2023,Industry,43776,12840
+180342,DeepL Ceres,Nvidia,Sweden,2023,Others,20480,11300
+180343,Nscale Svartisen,Nscale,Norway,2024,Industry,66528,7400.7
+180344,Kuma,Lenovo,Switzerland,2024,Academic,26240,11950
+180345,Kestrel GPU,HPE,United States,2024,Research,83968,18400
+180346,Alpha,Lenovo,United States,2024,Academic,7488,4099
+180347,Kempner,Lenovo,United States,2024,Academic,59904,16290
+180348,PITAGORA,Lenovo,Italy,2024,Academic,99456,27900
+180349,Reindeer,Microsoft Azure,United States,2024,Industry,138240,45590
+180350,ARF ACC,Lenovo,Turkey,2024,Government,14208,4363
+180351,NeXXt AI Factory,Nvidia,Italy,2024,Others,36208,11300
+180352,Discovery 6,HPE,United States,2025,Industry,822528,118600
+180353,Fir (GPU),Lenovo,Canada,2025,Research,92160,19960
+180354,TX-GAIN,HPE,United States,2025,Academic,99216,13390
+180355,AMD Ouranos,EVIDEN,France,2024,Vendor,16632,2988
+180356,Rorqual (GPU),DELL,Canada,2025,Academic,47952,6972
+180357,JUPITER Booster,EVIDEN,Germany,2025,Research,4801344,793400
+180358,Viper-GPU,EVIDEN,Germany,2025,Research,151200,31096
+180359,Otus (GPU only),Lenovo,Germany,2025,Academic,19440,4659
+180360,Lockhart TDS,HPE,United States,2021,Vendor,33984,6063.4
+180361,AI-03,Supermicro,United Arab Emirates,2025,Industry,483840,54120
+180362,ABCI-Q,Fujitsu,Japan,2025,Research,315120,74580
+180363,Torch,HPE,United States,2025,Academic,33152,10790
+180364,DeltaAI,HPE,United States,2025,Academic,124032,18080
+180365,Space HPC,HPE,Italy,2025,Research,16368,4468
+180366,ISEG2,Nebius AI,Netherlands,2025,Others,718848,202400
+180367,Rorqual (CPU),DELL,Canada,2025,Academic,131712,5142.7
+180368,PITAGORA CPU,Lenovo,Italy,2025,Academic,258048,15271
+180369,Mary Coombs,Lenovo,United Kingdom,2025,Research,99456,24410
+180370,Nibi - GPU,HYPERTEC,Canada,2025,Academic,6144,7985
+180371,Cycloud ML Platform,Nvidia,Japan,2025,Industry,37376,10820
+180372,Olivia (CPU),HPE,Norway,2025,Academic,64512,4250.4
+180373,,HPE,United States,2025,Industry,71680,21460
+180374,Vader,HPE,United States,2025,Vendor,8960,3142
+180375,Berzelius3,EVIDEN,Sweden,2025,Academic,18688,6423
+180376,WindRiver CTS-2,DELL,United States,2025,Research,94416,5332.72
+180377,Olivia (GPU),HPE,Norway,2025,Academic,62016,13200
+180378,Njoerd,HPE,United Kingdom,2024,Industry,273280,78200
+180379,Hopper NUS,DELL,Singapore,2025,Academic,34592,15050
+180380,SSC-24 Energy Module,HPE,South Korea,2024,Industry,11200,3824
+180381,SSC-24,HPE,South Korea,2024,Industry,349440,106200
+180382,Portage,HPE,United States,2024,Vendor,129024,24100
+180383,SAKURAONE,Supermicro,Japan,2024,Industry,115248,33950
+180384,Nano 5,ASUSTeK / ASUS Cloud / Taiwan Web Service Corporation,Taiwan,2025,Research,40880,13060
+180385,Grand Chariot 2,Fujitsu,Japan,2025,Academic,14208,4381
+180386,CRESCO8,Lenovo,Italy,2025,Research,97280,5426.59
+180387,FPT AI Factory Vietnam,ASUSTeK,Vietnam,2025,Industry,142240,46650
+180388,Isambard-AI phase 2,HPE,United Kingdom,2025,Academic,1028160,216500
+180389,SNL CTS-2 Mead,DELL,United States,2025,Research,123648,7056.58
+180390,ABCI 3.0,HPE,Japan,2024,Research,479232,145100
+180391,Hunter,HPE,Germany,2024,Research,181440,31680
+180392,,NEC,Germany,2025,Research,54400,13584
+180393,,NEC,Germany,2025,Research,41920,9204.2
+180394,Blueback CPU,HPE,United States,2024,Government,245760,10295.2
+180395,Blueback GPU,HPE,United States,2024,Government,32256,6044
+180397,,xFusion,Norway,2025,Industry,51200,2993.95
+180398,,xFusion,Norway,2025,Industry,41472,2623.29
+180399,FPT AI Factory Japan,HPE,Japan,2025,Industry,146304,49850
+180400,Otus (CPU only),Lenovo,Germany,2025,Academic,137472,8424.2
