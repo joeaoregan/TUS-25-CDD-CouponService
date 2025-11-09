@@ -1,3 +1,5 @@
+# A00258304
+
 # The Polybius Square Cipher is a substitution cipher that replaces each letter of a plaintext 
 # message with a pair of coordinates from a 5×5 grid; I and J are enciphered identically:
 
@@ -72,9 +74,14 @@ def encipher_message(plaintext, dict):
 
 # encipher_message("hello world", {})
 
-print(encipher_message("testing123", create_polybius_square()))
+# print(encipher_message("testing123", create_polybius_square())) # 44 15 43 44 24 33 22
 
 
 # c.
-def decipher_message(ciphertext, dict):
-    pass
+def decipher_message(ciphertext, polybius_square):
+    reverse_polybius_square = {v: k for k, v in polybius_square.items()}
+    plaintext = ""
+    for code in ciphertext.split():
+        if code in reverse_polybius_square:
+            plaintext += reverse_polybius_square[code]
+    return plaintext

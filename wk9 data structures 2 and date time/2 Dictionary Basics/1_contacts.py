@@ -24,3 +24,5 @@ if data_dict: # True if the dictionary is not empty
     print("Dictionary has items")
 else:
     print("Dictionary has no items")
+
+

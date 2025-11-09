@@ -31,15 +31,15 @@ with open("TOP500_202506.csv") as top500_file:
     top_system_id = max(supercomputers, key=lambda sid: supercomputers[sid][6]) # System with highest Rmax determined using Lambda key funciton with max(). sid is the System ID, supercomputers[sid][6] retrieves Rmax for each sid key
     name, manufacturer, country, year, segment, total_cores, rmax = supercomputers[top_system_id]
 
-    print("\nSystem with highest Rmax:")
-    print(f"ID: {top_system_id}")
-    print(f"Name: {name}")
-    print(f"Manufacturer: {manufacturer}")
-    print(f"Country: {country}")
-    print(f"Year: {year}")
-    print(f"Segment: {segment}")
-    print(f"Total cores: {total_cores}")
-    print(f"Rmax: {rmax:.2f} petaflops")
+    # print("\nSystem with highest Rmax:")
+    # print(f"ID: {top_system_id}")
+    # print(f"Name: {name}")
+    # print(f"Manufacturer: {manufacturer}")
+    # print(f"Country: {country}")
+    # print(f"Year: {year}")
+    # print(f"Segment: {segment}")
+    # print(f"Total cores: {total_cores}")
+    # print(f"Rmax: {rmax:.2f} petaflops")
 
     while True:
         search_country = input("\nEnter a country to search (or press Enter to quit): ").strip()

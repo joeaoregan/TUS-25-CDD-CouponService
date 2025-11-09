@@ -9,3 +9,5 @@
 # Open (existing or creates new file):
 #     with shelve.open("data.db") as data:
 # automatically hadnles file opening and closing safely
+
+# There are certain things that can't be pickled

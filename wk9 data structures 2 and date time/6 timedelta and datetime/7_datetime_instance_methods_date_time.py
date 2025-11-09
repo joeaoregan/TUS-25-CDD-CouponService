@@ -19,6 +19,6 @@ print(halloween.date()) # 2025-10-31
 # strftime(format) - Return a string representing datetime object, specified by a format string
 
 this_moment = datetime.datetime.now()
-print(this_moment)
-print(this_moment.strftime("%I.%M %p %A %d %B %Y"))
-print(this_moment.isoformat())
+print(this_moment) # 2025-11-08 21:27:43.340555s
+print(this_moment.strftime("%I.%M %p %A %d %B %Y")) # 09.27 PM Saturday 08 November 2025
+print(this_moment.isoformat()) # 2025-11-08T21:27:43.340555

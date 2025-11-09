@@ -37,4 +37,5 @@ datetime.date(2026, 4, 1)
 
 # april_fools_day = datetime.date.fromisoformat("2026/04/01") # ValueError: Invalid isoformat string: '2026/05/01'
 
-april_fools_day = datetime.date.fromisoformat("01/04/2026")
+april_fools_day = datetime.date.fromisoformat("01/04/2026") # ValueError: Invalid isoformat string: '01/04/2026'
+# Has to be in the format YYYY-MM-DD e.g. 2026-04-01
