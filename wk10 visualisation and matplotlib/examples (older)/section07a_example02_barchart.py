@@ -8,17 +8,17 @@ data_by_state = {}
 
 # read the data from the file
 with open("amazon2.csv") as datafile:
-    #for each line in the file
+	# for each line in the file
 	for line in datafile:
-        # split the line into the components
+		# split the line into the components
 	    year, state, month, fires, date = line.strip().split(",")
 		
-	    # if this is the first occurence of this state
-	    if not state in data_by_state:
-		    data_by_state[state] = int(fires) 
-	    # otherwise add to the existing value
-	    else:
-		    data_by_state[state] += int(fires)
+		# if this is the first occurence of this state
+		if not state in data_by_state:
+			data_by_state[state] = int(fires) 
+		# otherwise add to the existing value
+		else:
+			data_by_state[state] += int(fires)
 
 # create a figure and an axis object
 fig, ax = plt.subplots()
