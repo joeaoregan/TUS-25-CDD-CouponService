@@ -20,12 +20,12 @@ ax.set_title("Question 12")
 # ax.pie(labels=data.keys(), data.values()) # SyntaxError: positional argument follows keyword argument
 
 # c.
-# ax.pie(data.values(), labels=data.keys()) # This?
+ax.pie(data.values(), labels=data.keys()) # This?
 
 # d.
 # ax.pie(data.keys(), data.values()) # ValueError: could not convert string to float: 'derp'
 
 # e.
-ax.pie(data.values(), data.keys())
+# ax.pie(data.values(), data.keys()) # TypeError: can't multiply sequence by non-int of type 'float'
 
 plt.show()

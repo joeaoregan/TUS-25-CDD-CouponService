@@ -1,4 +1,4 @@
-# Program Name: multiple_boxplots2.py
+# Program Name: boxplot_multiple2.py
 # Purpose: Display boxplots for triple jump results
 # Example of: Matplotlib multiple boxplots
 import matplotlib.pyplot as plt

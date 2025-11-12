@@ -32,7 +32,7 @@
 # Creating the Visualisations
 
 # Create an instance of Figure and an instance of Axes:
-# fig, ax = plt.subplost()
+# fig, ax = plt.subplots()
 
 # The Figure is like a canvas, and the Axes is a part of that canvas on which we will make a particular visualization.
 

@@ -1,4 +1,4 @@
-# Program Name: multiple_boxplot.py
+# Program Name: boxplot_multiple.py
 # Purpose: To plot the fires per month in Brail
 # Example of: matplotlib multiple boxplots
 import matplotlib.pyplot as plt

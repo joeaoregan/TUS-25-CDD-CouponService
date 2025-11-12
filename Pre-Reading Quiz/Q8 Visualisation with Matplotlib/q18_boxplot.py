@@ -19,7 +19,6 @@ fig, ax = plt.subplots() # create figure and an axis objects
 
 ax.set(title="Question 18", ylabel="Number of Fires per month") # set the labels on the axes
 
-# do a box plot
 ax.boxplot(data_dict.values(),showfliers=False) # show outliers with whiskers
 # ax.boxplot(data_dict.values()) # leave out whiskers
 plt.show() # display
