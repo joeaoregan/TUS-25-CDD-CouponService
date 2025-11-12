@@ -62,4 +62,4 @@ print(f"{iqr=}")
 
 plt.show()
 
-fig.savefig('iqr.png', bbox_inches='tight')
+fig.savefig('figures/iqr.png', bbox_inches='tight')
