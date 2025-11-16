@@ -1,3 +1,12 @@
+# Example: Regex for a filename
+# Write a program to validate a filename in the form name.extension, e.g. test.txt
+# which contains only letters, numbers, the hyphen – and the underscore _
+# The regex is: ^\w+\.\w+$
+
+# The quantifier + means 1 or more (at least 1).  
+# The character class \w # represents a “word” character, 
+# that is, one of a-zA-Z0-9–_
+
 # Program 5: Validate a filename
 
 # Program to validate a filename

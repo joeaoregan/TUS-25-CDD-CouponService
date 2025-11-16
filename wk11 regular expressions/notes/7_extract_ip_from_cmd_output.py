@@ -23,4 +23,3 @@ else:
     print("No IPv4 address found")
 
 print(match.group(0))
-# print(match.group(1))

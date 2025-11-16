@@ -15,9 +15,9 @@ def valid_ip_regex(regex):
         print("Not a valid IPv4")
 
 
-simple_regex = r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$"
-alternate_regex = r"^(\d{1,3}\.){3}\d{1,3}$"
-capture_regex = "(\d{1,3}\.){3}\d{1,3}"
+simple_regex =      r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$"
+alternate_regex =   r"^(\d{1,3}\.){3}\d{1,3}$"
+capture_regex =     r"(\d{1,3}\.){3}\d{1,3}"
 
 valid_ip_regex(simple_regex)
 valid_ip_regex(alternate_regex)

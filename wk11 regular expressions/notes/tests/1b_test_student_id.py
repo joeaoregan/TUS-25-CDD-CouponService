@@ -12,7 +12,8 @@ def check_student_id(id):
         print("Not a valid AIT Student ID")
 
 # test cases
-
+# The regular expression is case-sensitive, 
+# which means it will match A00123456 but not a00123456.
 check_student_id("A00123456")
 check_student_id("A123456")
 check_student_id("a00123456")
