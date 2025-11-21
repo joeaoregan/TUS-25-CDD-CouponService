@@ -16,6 +16,6 @@ with open('employees.txt') as data_file:
          
 print("Department with most employees:", max(employees_freq,key=employees_freq.get))
 
-print(employees_freq)
-print(len(employees_freq))
+# print(employees_freq)
+# print(len(employees_freq))
 # print(contents)
