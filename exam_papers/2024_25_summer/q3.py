@@ -75,8 +75,8 @@ print(events_dict)
 # Q3(c)
 import matplotlib.pyplot as plt
 
-fig,axs = plt.subplots(2,3)
-fig.set_size_inches(15,12)
+fig,axs = plt.subplots(2,3, figsize=(15,12))
+# fig.set_size_inches(15,12) # width, height
 
 fig.suptitle("Network Data") # Q3(c)(ii)
 
@@ -101,17 +101,12 @@ axs[1,0].bar(protocol_dict.keys(), protocol_dict.values())
 
 axs[1,1].set_title("Packets: Box Plots")
 axs[1,1].set_ylabel("Number of Packets")
-# axs[1,1].boxplot(rPackets_list, 
-#            showfliers=False, # leave out the outliers
-#            labels=rPackets_list) # pass in the list of labels
 axs[1,1].boxplot([sPackets_list, rPackets_list], 
                  showmeans=True,
-                 meanline=True,
-           labels=["Sent","Received"]) # pass in the list of labels
+                 meanline=True, 
+                 labels=["Sent","Received"]) # pass in the list of labels
 
-axs[1,2].set_title("Packets: Scatter Plot")
-axs[1,2].set_xlabel("Sent")
-axs[1,2].set_ylabel("Received")
+axs[1,2].set(title="Packets: Scatter Plot", xlabel="Sent", ylabel="Received")
 axs[1,2].scatter(sPackets_list, rPackets_list, marker=".")
 
 plt.show()
